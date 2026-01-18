@@ -1,10 +1,3 @@
-¡Claro que sí! 👍
-Aquí tienes la **documentación completa en español**, bien redactada y **lista para entregar** como documentación de tu **calculadora en Windows Forms**.
-
-Puedes usarla como **README.md** o como documento del proyecto.
-
----
-
 # 🧮 Calculadora en Windows Forms – C#
 
 ## 📌 Descripción del Proyecto
